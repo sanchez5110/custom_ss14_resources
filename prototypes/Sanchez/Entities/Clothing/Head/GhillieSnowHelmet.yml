@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHeadGhillie
+  id: ClothingHeadGhillieSnowHelmet
+  name: Snow helmet
+  description: just a snow ghillie helmet.
+  components:
+    - type: Sprite
+      sprite: Sanchez/Head/GhillieSnowHelmet.rsi
+    - type: Clothing
+      sprite: Sanchez/Head/GhillieSnowHelmet.rsi

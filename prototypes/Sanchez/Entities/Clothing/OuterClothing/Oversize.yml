@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatOversize
+  name: oversize tshirt
+  description: comfy tshirt.
+  components:
+    - type: Sprite
+      sprite: Sanchez/OuterClothing/oversize.rsi
+    - type: Clothing
+      sprite: Sanchez/OuterClothing/oversize.rsi
