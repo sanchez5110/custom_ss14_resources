@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandsMittenPurpleBlack
+  name: Purple-black mittens
+  description: A pair of emo mittens.
+  components:
+    - type: Sprite
+      sprite: Sanchez/Hands/Gloves/Mittens/MittenPurpleBlack.rsi
+    - type: Clothing
+      sprite: Sanchez/Hands/Gloves/Mittens/MittenPurpleBlack.rsi

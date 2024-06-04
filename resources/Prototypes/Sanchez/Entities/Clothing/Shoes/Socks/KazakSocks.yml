@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingShoesSocksKazakSocks
+  name: Black-green socks
+  description: looks so familiar to you...
+  components:
+    - type: Sprite
+      sprite: Sanchez/Shoes/Socks/KazakSocks.rsi
+    - type: Clothing
+      sprite: Sanchez/Shoes/Socks/KazakSocks.rsi

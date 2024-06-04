@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandsMittenBlueBlack
+  name: Blue-black mittens
+  description: Just a mittens. Nevermind.
+  components:
+    - type: Sprite
+      sprite: Sanchez/Hands/Gloves/Mittens/MittenBlueBlack.rsi
+    - type: Clothing
+      sprite: Sanchez/Hands/Gloves/Mittens/MittenBlueBlack.rsi
