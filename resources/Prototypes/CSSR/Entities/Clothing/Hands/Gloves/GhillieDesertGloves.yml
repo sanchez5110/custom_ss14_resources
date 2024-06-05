@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandsGhillieDesertGloves
+  name: Desert gloves
+  description: just a desert ghillie gloves.
+  components:
+    - type: Sprite
+      sprite: Sanchez/Hands/Gloves/GhillieDesertGloves.rsi
+    - type: Clothing
+      sprite: Sanchez/Hands/Gloves/GhillieDesertGloves.rsi
