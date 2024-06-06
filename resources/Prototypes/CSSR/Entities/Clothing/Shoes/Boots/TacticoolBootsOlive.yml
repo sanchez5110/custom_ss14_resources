@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingShoesBootsTacticoolOlive
+  name: Olive tacticool boots
+  description: comfy.
+  components:
+    - type: Sprite
+      sprite: Sanchez/Shoes/Boots/TacticoolBootsOlive.rsi
+    - type: Clothing
+      sprite: Sanchez/Shoes/Boots/TacticoolBootsOlive.rsi

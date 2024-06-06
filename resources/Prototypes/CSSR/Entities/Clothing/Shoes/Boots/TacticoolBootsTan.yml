@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingShoesBootsTacticoolTan
+  name: Tan tacticool boots
+  description: I love desert, do you love desert?
+  components:
+    - type: Sprite
+      sprite: Sanchez/Shoes/Boots/TacticoolBootsTan.rsi
+    - type: Clothing
+      sprite: Sanchez/Shoes/Boots/TacticoolBootsTan.rsi

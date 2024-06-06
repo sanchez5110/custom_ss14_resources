@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingShoesBootsTacticoolWhite
+  name: White tacticool boots
+  description: Civilian version?
+  components:
+    - type: Sprite
+      sprite: Sanchez/Shoes/Boots/TacticoolBootsWhite.rsi
+    - type: Clothing
+      sprite: Sanchez/Shoes/Boots/TacticoolBootsWhite.rsi
