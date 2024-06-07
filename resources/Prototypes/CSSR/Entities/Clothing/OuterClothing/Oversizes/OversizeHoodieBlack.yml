@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatOversizeHoodieBlack
+  name: black oversize hoodie
+  description: Jesse, listen me Jesse, we going to farm some crystals Jesse.
+  components:
+    - type: Sprite
+      sprite: CSSR/OuterClothing/Oversizes/oversizeHoodieBlack.rsi
+    - type: Clothing
+      sprite: CSSR/OuterClothing/Oversizes/oversizeHoodieBlack.rsi
