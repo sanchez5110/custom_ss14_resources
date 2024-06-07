@@ -5,6 +5,6 @@
   description: Just a forest gaiter.
   components:
     - type: Sprite
-      sprite: Sanchez/Mask/GhillieForestGaiter.rsi
+      sprite: CSSR/Mask/Ghillie/GhillieForestGaiter.rsi
     - type: Clothing
-      sprite: Sanchez/Mask/GhillieForestGaiter.rsi
+      sprite: CSSR/Mask/Ghillie/GhillieForestGaiter.rsi

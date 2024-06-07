@@ -5,6 +5,6 @@
   description: just a desert ghillie helmet.
   components:
     - type: Sprite
-      sprite: Sanchez/Head/GhillieDesertHelmet.rsi
+      sprite: CSSR/Head/Ghillie/GhillieDesertHelmet.rsi
     - type: Clothing
-      sprite: Sanchez/Head/GhillieDesertHelmet.rsi
+      sprite: CSSR/Head/Ghillie/GhillieDesertHelmet.rsi

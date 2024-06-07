@@ -5,6 +5,6 @@
   description: comfy tshirt.
   components:
     - type: Sprite
-      sprite: Sanchez/OuterClothing/Oversizes/oversizeBlack.rsi
+      sprite: CSSR/OuterClothing/Oversizes/oversizeBlack.rsi
     - type: Clothing
-      sprite: Sanchez/OuterClothing/Oversizes/oversizeBlack.rsi
+      sprite: CSSR/OuterClothing/Oversizes/oversizeBlack.rsi

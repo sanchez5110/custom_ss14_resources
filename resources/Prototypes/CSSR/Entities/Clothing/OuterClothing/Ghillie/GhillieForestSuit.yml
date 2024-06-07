@@ -5,6 +5,6 @@
   description: Just a forest ghillie. I love it.
   components:
     - type: Sprite
-      sprite: Sanchez/OuterClothing/GhillieForestSuit.rsi
+      sprite: CSSR/OuterClothing/Ghillie/GhillieForestSuit.rsi
     - type: Clothing
-      sprite: Sanchez/OuterClothing/GhillieForestSuit.rsi
+      sprite: CSSR/OuterClothing/Ghillie/GhillieForestSuit.rsi

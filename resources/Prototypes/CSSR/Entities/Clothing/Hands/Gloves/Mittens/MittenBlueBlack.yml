@@ -5,6 +5,6 @@
   description: Just a mittens. Nevermind.
   components:
     - type: Sprite
-      sprite: Sanchez/Hands/Gloves/Mittens/MittenBlueBlack.rsi
+      sprite: CSSR/Hands/Gloves/Mittens/MittenBlueBlack.rsi
     - type: Clothing
-      sprite: Sanchez/Hands/Gloves/Mittens/MittenBlueBlack.rsi
+      sprite: CSSR/Hands/Gloves/Mittens/MittenBlueBlack.rsi

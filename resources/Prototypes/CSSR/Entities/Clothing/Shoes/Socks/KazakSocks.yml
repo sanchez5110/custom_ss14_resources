@@ -5,6 +5,6 @@
   description: looks so familiar to you...
   components:
     - type: Sprite
-      sprite: Sanchez/Shoes/Socks/KazakSocks.rsi
+      sprite: CSSR/Shoes/Socks/KazakSocks.rsi
     - type: Clothing
-      sprite: Sanchez/Shoes/Socks/KazakSocks.rsi
+      sprite: CSSR/Shoes/Socks/KazakSocks.rsi

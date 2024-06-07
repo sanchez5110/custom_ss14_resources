@@ -5,6 +5,6 @@
   description: just a forest ghillie helmet.
   components:
     - type: Sprite
-      sprite: Sanchez/Head/GhillieForestHelmet.rsi
+      sprite: CSSR/Head/Ghillie/GhillieForestHelmet.rsi
     - type: Clothing
-      sprite: Sanchez/Head/GhillieForestHelmet.rsi
+      sprite: CSSR/Head/Ghillie/GhillieForestHelmet.rsi

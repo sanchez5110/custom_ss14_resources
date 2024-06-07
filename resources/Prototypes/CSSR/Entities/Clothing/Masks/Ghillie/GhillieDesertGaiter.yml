@@ -5,6 +5,6 @@
   description: Just a desert gaiter.
   components:
     - type: Sprite
-      sprite: Sanchez/Mask/GhillieDesertGaiter.rsi
+      sprite: CSSR/Mask/Ghillie/GhillieDesertGaiter.rsi
     - type: Clothing
-      sprite: Sanchez/Mask/GhillieDesertGaiter.rsi
+      sprite: CSSR/Mask/Ghillie/GhillieDesertGaiter.rsi

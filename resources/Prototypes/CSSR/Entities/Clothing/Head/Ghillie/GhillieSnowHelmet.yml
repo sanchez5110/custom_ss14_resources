@@ -5,6 +5,6 @@
   description: just a snow ghillie helmet.
   components:
     - type: Sprite
-      sprite: Sanchez/Head/GhillieSnowHelmet.rsi
+      sprite: CSSR/Head/Ghillie/GhillieSnowHelmet.rsi
     - type: Clothing
-      sprite: Sanchez/Head/GhillieSnowHelmet.rsi
+      sprite: CSSR/Head/Ghillie/GhillieSnowHelmet.rsi

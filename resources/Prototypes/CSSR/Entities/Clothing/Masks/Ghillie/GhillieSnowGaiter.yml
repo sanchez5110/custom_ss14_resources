@@ -5,6 +5,6 @@
   description: Just a snow gaiter.
   components:
     - type: Sprite
-      sprite: Sanchez/Mask/GhillieSnowGaiter.rsi
+      sprite: CSSR/Mask/Ghillie/GhillieSnowGaiter.rsi
     - type: Clothing
-      sprite: Sanchez/Mask/GhillieSnowGaiter.rsi
+      sprite: CSSR/Mask/Ghillie/GhillieSnowGaiter.rsi

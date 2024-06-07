@@ -5,6 +5,6 @@
   description: just a snow ghillie gloves.
   components:
     - type: Sprite
-      sprite: Sanchez/Hands/Gloves/GhillieSnowGloves.rsi
+      sprite: CSSR/Hands/Gloves/Ghillie/GhillieSnowGloves.rsi
     - type: Clothing
-      sprite: Sanchez/Hands/Gloves/GhillieSnowGloves.rsi
+      sprite: CSSR/Hands/Gloves/Ghillie/GhillieSnowGloves.rsi

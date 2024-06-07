@@ -5,7 +5,7 @@
   description: A large barricade, its made from cloth, rods and sand.
   components:
     - type: Sprite
-      sprite: Sanchez/Structures/HESCOwall.rsi
+      sprite: CSSR/Structures/HESCOwall.rsi
       state: HESCOwall
     - type: Construction
       graph: Girder

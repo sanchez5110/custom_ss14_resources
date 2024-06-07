@@ -5,6 +5,6 @@
   description: Just a snow ghillie.
   components:
     - type: Sprite
-      sprite: Sanchez/OuterClothing/GhillieSnowSuit.rsi
+      sprite: CSSR/OuterClothing/Ghillie/GhillieSnowSuit.rsi
     - type: Clothing
-      sprite: Sanchez/OuterClothing/GhillieSnowSuit.rsi
+      sprite: CSSR/OuterClothing/Ghillie/GhillieSnowSuit.rsi
