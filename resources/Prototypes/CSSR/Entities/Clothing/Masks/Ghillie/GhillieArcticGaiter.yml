@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingMaskBase
+  id: ClothingMaskGhillieArcticGaiter
+  name: arctic gaiter
+  description: Just a arctic gaiter.
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/Mask/Ghillie/GhillieArcticGaiter.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/Mask/Ghillie/GhillieArcticGaiter.rsi

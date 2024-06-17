@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformMilitaryFormalForest
+  name: Formal forest jumpsuit
+  description: Formal like a shit.
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Uniforms/Military/FormalForest.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Uniforms/Military/FormalForest.rsi

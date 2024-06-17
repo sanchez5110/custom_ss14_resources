@@ -5,6 +5,6 @@
   description: Just a desert ghillie, wait, where is it?!
   components:
     - type: Sprite
-      sprite: CSSR/OuterClothing/Ghillie/GhillieDesertSuit.rsi
+      sprite: CSSR/Clothing/OuterClothing/Ghillie/GhillieDesertSuit.rsi
     - type: Clothing
-      sprite: CSSR/OuterClothing/Ghillie/GhillieDesertSuit.rsi
+      sprite: CSSR/Clothing/OuterClothing/Ghillie/GhillieDesertSuit.rsi

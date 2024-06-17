@@ -5,6 +5,6 @@
   description: Jesse, listen me Jesse, we going to farm some crystals Jesse.
   components:
     - type: Sprite
-      sprite: CSSR/OuterClothing/Oversizes/oversizeHoodieBlack.rsi
+      sprite: CSSR/Clothing/OuterClothing/Oversizes/oversizeHoodieBlack.rsi
     - type: Clothing
-      sprite: CSSR/OuterClothing/Oversizes/oversizeHoodieBlack.rsi
+      sprite: CSSR/Clothing/OuterClothing/Oversizes/oversizeHoodieBlack.rsi

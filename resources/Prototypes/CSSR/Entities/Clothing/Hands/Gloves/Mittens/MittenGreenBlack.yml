@@ -5,6 +5,6 @@
   description: Is that a mittens!?
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Mittens/MittenGreenBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenGreenBlack.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Mittens/MittenGreenBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenGreenBlack.rsi

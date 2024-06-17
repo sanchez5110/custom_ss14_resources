@@ -1,7 +1,7 @@
 - type: entity
   abstract: true
   parent: ClothingHeadBase
-  id: ClothingHeadGhillie
+  id: ClothingHeadNohair
   components:
   - type: Item
     size: Normal

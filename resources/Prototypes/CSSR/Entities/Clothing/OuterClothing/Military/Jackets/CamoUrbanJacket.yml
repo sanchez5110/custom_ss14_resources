@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCamoUrbanJacket
+  name: Urban jacket
+  description: Just a urban jacket. No armour.
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/CamoUrban.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/CamoUrban.rsi

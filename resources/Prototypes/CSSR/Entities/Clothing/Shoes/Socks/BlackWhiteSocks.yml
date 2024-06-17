@@ -5,6 +5,6 @@
   description: look very sad
   components:
     - type: Sprite
-      sprite: CSSR/Shoes/Socks/BlackWhiteSocks.rsi
+      sprite: CSSR/Clothing/Shoes/Socks/BlackWhiteSocks.rsi
     - type: Clothing
-      sprite: CSSR/Shoes/Socks/BlackWhiteSocks.rsi
+      sprite: CSSR/Clothing/Shoes/Socks/BlackWhiteSocks.rsi

@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCamoArcticJacket
+  name: Arctic jacket
+  description: Just a arctic jacket. No armour.
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/CamoArctic.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/CamoArctic.rsi

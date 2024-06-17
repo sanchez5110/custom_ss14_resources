@@ -5,6 +5,6 @@
   description: Civilian version!
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Mittens/MittenWhiteBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenWhiteBlack.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Mittens/MittenWhiteBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenWhiteBlack.rsi

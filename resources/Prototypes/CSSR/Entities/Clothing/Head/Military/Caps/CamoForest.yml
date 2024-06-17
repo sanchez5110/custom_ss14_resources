@@ -1,0 +1,15 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatCamoForestCap
+  name: Forest cap
+  description: ohh, it is so green!~ <33
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Head/Military/Caps/CamoForest.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Head/Military/Caps/CamoForest.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon

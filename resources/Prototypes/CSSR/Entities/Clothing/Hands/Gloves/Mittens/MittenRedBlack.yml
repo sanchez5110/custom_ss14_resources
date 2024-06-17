@@ -5,6 +5,6 @@
   description: Now for security!
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Mittens/MittenRedBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenRedBlack.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Mittens/MittenRedBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenRedBlack.rsi

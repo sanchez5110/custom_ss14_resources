@@ -1,0 +1,15 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatUrbanBeret
+  name: Urban beret
+  description: Cityyyyyyyy.
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Head/Military/Berets/BeretUrban.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Head/Military/Berets/BeretUrban.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon

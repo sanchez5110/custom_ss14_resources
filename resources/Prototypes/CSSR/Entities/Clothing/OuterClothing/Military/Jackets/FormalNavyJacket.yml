@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterFormalNavyJacket
+  name: Formal navy jacket
+  description: Formal jacket. jacket?
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/FormalNavy.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/FormalNavy.rsi

@@ -1,0 +1,15 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatFormalNavyCap
+  name: Navy formal cap
+  description: nuh-uh
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Head/Military/Caps/FormalNavy.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Head/Military/Caps/FormalNavy.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon

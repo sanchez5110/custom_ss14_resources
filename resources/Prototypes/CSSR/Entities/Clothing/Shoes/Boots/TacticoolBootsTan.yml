@@ -5,6 +5,6 @@
   description: I love desert, do you love desert?
   components:
     - type: Sprite
-      sprite: CSSR/Shoes/Boots/TacticoolBootsTan.rsi
+      sprite: CSSR/Clothing/Shoes/Boots/TacticoolBootsTan.rsi
     - type: Clothing
-      sprite: CSSR/Shoes/Boots/TacticoolBootsTan.rsi
+      sprite: CSSR/Clothing/Shoes/Boots/TacticoolBootsTan.rsi

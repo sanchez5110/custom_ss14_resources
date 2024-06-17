@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandsGhillieArcticGloves
+  name: Arctic gloves
+  description: just a arctic ghillie gloves.
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/Hands/Gloves/Ghillie/GhillieArcticGloves.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/Hands/Gloves/Ghillie/GhillieArcticGloves.rsi

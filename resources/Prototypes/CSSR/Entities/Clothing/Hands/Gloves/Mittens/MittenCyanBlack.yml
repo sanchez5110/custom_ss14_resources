@@ -5,6 +5,6 @@
   description: Just a mittens. Dont mind me!
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Mittens/MittenCyanBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenCyanBlack.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Mittens/MittenCyanBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenCyanBlack.rsi

@@ -5,6 +5,6 @@
   description: Just a forest gaiter.
   components:
     - type: Sprite
-      sprite: CSSR/Mask/Ghillie/GhillieForestGaiter.rsi
+      sprite: CSSR/Clothing/Mask/Ghillie/GhillieForestGaiter.rsi
     - type: Clothing
-      sprite: CSSR/Mask/Ghillie/GhillieForestGaiter.rsi
+      sprite: CSSR/Clothing/Mask/Ghillie/GhillieForestGaiter.rsi

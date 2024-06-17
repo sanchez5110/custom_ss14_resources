@@ -5,6 +5,6 @@
   description: nuh uh.
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Mittens/MittenPinkCyan.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenPinkCyan.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Mittens/MittenPinkCyan.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenPinkCyan.rsi

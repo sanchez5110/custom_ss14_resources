@@ -5,6 +5,6 @@
   description: just a forest ghillie gloves.
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Ghillie/GhillieForestGloves.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Ghillie/GhillieForestGloves.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Ghillie/GhillieForestGloves.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Ghillie/GhillieForestGloves.rsi

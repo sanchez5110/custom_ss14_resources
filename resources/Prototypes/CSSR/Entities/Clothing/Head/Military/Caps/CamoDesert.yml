@@ -1,0 +1,15 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatCamoDesertCap
+  name: Desert cap
+  description: this IS NOT cargo cap, ok!?
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Head/Military/Caps/CamoDesert.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Head/Military/Caps/CamoDesert.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon

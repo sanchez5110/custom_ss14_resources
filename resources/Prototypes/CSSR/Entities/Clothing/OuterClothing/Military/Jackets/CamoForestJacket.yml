@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCamoForestJacket
+  name: Forest jacket
+  description: Just a forest jacket. No armour.
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/CamoForest.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/CamoForest.rsi

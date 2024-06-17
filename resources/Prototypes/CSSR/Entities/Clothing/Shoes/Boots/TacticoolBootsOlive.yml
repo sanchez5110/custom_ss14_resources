@@ -5,6 +5,6 @@
   description: comfy.
   components:
     - type: Sprite
-      sprite: CSSR/Shoes/Boots/TacticoolBootsOlive.rsi
+      sprite: CSSR/Clothing/Shoes/Boots/TacticoolBootsOlive.rsi
     - type: Clothing
-      sprite: CSSR/Shoes/Boots/TacticoolBootsOlive.rsi
+      sprite: CSSR/Clothing/Shoes/Boots/TacticoolBootsOlive.rsi

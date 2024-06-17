@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformMilitaryFormalNavy
+  name: Navy formal jumpsuit
+  description: He-he
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Uniforms/Military/FormalNavy.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Uniforms/Military/FormalNavy.rsi

@@ -5,6 +5,6 @@
   description: Yo mr. white!
   components:
     - type: Sprite
-      sprite: CSSR/OuterClothing/Oversizes/oversizeHoodie.rsi
+      sprite: CSSR/Clothing/OuterClothing/Oversizes/oversizeHoodie.rsi
     - type: Clothing
-      sprite: CSSR/OuterClothing/Oversizes/oversizeHoodie.rsi
+      sprite: CSSR/Clothing/OuterClothing/Oversizes/oversizeHoodie.rsi

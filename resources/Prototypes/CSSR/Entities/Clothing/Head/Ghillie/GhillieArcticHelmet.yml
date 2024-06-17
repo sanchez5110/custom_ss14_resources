@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHeadNohair
+  id: ClothingHeadGhillieArcticHelmet
+  name: Arctic helmet
+  description: just a arctic ghillie helmet.
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/Head/Ghillie/GhillieArcticHelmet.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/Head/Ghillie/GhillieArcticHelmet.rsi

@@ -5,6 +5,6 @@
   description: just a desert ghillie gloves.
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Ghillie/GhillieDesertGloves.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Ghillie/GhillieDesertGloves.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Ghillie/GhillieDesertGloves.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Ghillie/GhillieDesertGloves.rsi

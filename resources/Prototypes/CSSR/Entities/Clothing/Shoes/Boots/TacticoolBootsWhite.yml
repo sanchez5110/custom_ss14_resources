@@ -5,6 +5,6 @@
   description: Civilian version?
   components:
     - type: Sprite
-      sprite: CSSR/Shoes/Boots/TacticoolBootsWhite.rsi
+      sprite: CSSR/Clothing/Shoes/Boots/TacticoolBootsWhite.rsi
     - type: Clothing
-      sprite: CSSR/Shoes/Boots/TacticoolBootsWhite.rsi
+      sprite: CSSR/Clothing/Shoes/Boots/TacticoolBootsWhite.rsi

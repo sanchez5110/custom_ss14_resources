@@ -5,6 +5,6 @@
   description: Look like an honey!
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Mittens/MittenOrangeBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenOrangeBlack.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Mittens/MittenOrangeBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenOrangeBlack.rsi

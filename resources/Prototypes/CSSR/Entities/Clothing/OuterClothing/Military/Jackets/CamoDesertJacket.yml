@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCamoDesertJacket
+  name: Desert jacket
+  description: Just a desert jacket.
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/CamoDesert.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/OuterClothing/Military/Jackets/CamoDesert.rsi

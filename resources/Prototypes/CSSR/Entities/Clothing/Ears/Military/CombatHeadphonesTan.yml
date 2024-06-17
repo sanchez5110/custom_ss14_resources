@@ -1,0 +1,15 @@
+- type: entity
+  parent: ClothingHeadset
+  id: ClothingHeadsetActiveHeadphonesTan
+  name: Tan active headphones
+  description: This is used by your elite special force.
+  components:
+  - type: ContainerFill
+    containers:
+      key_slots:
+      - EncryptionKeySecurity
+      - EncryptionKeyCommon
+  - type: Sprite
+    sprite: CSSR/Clothing/Ears/Headset/Military/CombatHeadphonesTan.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Ears/Headset/Military/CombatHeadphonesTan.rsi

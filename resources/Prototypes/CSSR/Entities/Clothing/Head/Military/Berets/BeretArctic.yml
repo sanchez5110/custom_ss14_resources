@@ -1,0 +1,15 @@
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatArtcticBeret
+  name: Arctic beret
+  description: A arctic beret, i think it was not very warm.
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Head/Military/Berets/BeretArctic.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Head/Military/Berets/BeretArctic.rsi
+  - type: Tag
+    tags:
+    - ClothMade
+    - HamsterWearable
+    - WhitelistChameleon

@@ -5,6 +5,6 @@
   description: A pair of emo mittens.
   components:
     - type: Sprite
-      sprite: CSSR/Hands/Gloves/Mittens/MittenPinkBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenPinkBlack.rsi
     - type: Clothing
-      sprite: CSSR/Hands/Gloves/Mittens/MittenPinkBlack.rsi
+      sprite: CSSR/Clothing/Hands/Gloves/Mittens/MittenPinkBlack.rsi
