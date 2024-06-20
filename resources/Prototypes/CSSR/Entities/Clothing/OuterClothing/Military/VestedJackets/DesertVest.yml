@@ -1,0 +1,20 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterVestJacketDesertMilitary
+  name: Desert vested jacket
+  description: very warm for desert.
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/OuterClothing/Military/VestedJackets/Desert.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/OuterClothing/Military/VestedJackets/Desert.rsi
+  - type: TemperatureProtection
+    coefficient: 0.1
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.6
+        Slash: 0.6
+        Piercing: 0.3
+  - type: ExplosionResistance
+    damageCoefficient: 0.9
