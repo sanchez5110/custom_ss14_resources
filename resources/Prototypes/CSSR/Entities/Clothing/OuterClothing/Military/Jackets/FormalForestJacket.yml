@@ -8,3 +8,5 @@
       sprite: CSSR/Clothing/OuterClothing/Military/Jackets/FormalForest.rsi
     - type: Clothing
       sprite: CSSR/Clothing/OuterClothing/Military/Jackets/FormalForest.rsi
+    - type: TemperatureProtection
+      coefficient: 0.1

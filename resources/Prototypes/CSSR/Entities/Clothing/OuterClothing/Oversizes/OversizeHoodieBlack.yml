@@ -8,3 +8,5 @@
       sprite: CSSR/Clothing/OuterClothing/Oversizes/oversizeHoodieBlack.rsi
     - type: Clothing
       sprite: CSSR/Clothing/OuterClothing/Oversizes/oversizeHoodieBlack.rsi
+    - type: TemperatureProtection
+      coefficient: 0.1
