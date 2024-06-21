@@ -1,0 +1,8 @@
+- type: entity
+  parent: ClothingBackpackSatchel
+  id: ClothingBackpackSatchelArmyArctic
+  name: Army arctic satchel
+  description: A satchel, it is contains all you need
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/Back/Army/Satchels/Arctic.rsi
