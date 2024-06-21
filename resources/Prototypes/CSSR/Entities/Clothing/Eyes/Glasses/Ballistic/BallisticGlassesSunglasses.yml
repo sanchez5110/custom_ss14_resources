@@ -1,0 +1,19 @@
+- type: entity
+  parent: ClothingEyesBase
+  id: ClothingEyesGlassesBallisticSunglasses
+  name: Ballistic sunglasses
+  description: A ballistic glasses that protect your eyes.
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Eyes/Glasses/ballistic/BallisticSunglasses.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Eyes/Glasses/ballistic/BallisticSunglasses.rsi
+  - type: FlashImmunity
+  - type: EyeProtection
+    protectionTime: 5
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.95
+        Slash: 0.95
+        Piercing: 0.95

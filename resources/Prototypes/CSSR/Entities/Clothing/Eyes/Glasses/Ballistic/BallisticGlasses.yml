@@ -1,0 +1,16 @@
+- type: entity
+  parent: ClothingEyesBase
+  id: ClothingEyesGlassesBallistic
+  name: Ballistic glasses
+  description: A ballistic glasses that protect your eyes.
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Eyes/Glasses/ballistic/BallisticGlasses.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Eyes/Glasses/ballistic/BallisticGlasses.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.95
+        Slash: 0.95
+        Piercing: 0.95
