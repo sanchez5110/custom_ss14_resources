@@ -1,0 +1,14 @@
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandsCombatTanGloves
+  name: Tan combat gloves
+  description: tan combat gloves. Like sand
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/Hands/Gloves/Military/Combat/Tan.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/Hands/Gloves/Military/Combat/Tan.rsi
+    - type: GloveHeatResistance
+      heatResistance: 1400
+    - type: Insulated
+    - type: FingerprintMask

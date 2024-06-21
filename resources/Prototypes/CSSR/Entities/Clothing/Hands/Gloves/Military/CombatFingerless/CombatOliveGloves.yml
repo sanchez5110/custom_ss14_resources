@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingHandsBase
+  id: ClothingHandsCombatOliveGlovesFingerless
+  name: Olive combat fingerless gloves
+  description: olive fingerless combat gloves. Better for aim.
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/Hands/Gloves/Military/CombatFingerless/Olive.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/Hands/Gloves/Military/CombatFingerless/Olive.rsi
