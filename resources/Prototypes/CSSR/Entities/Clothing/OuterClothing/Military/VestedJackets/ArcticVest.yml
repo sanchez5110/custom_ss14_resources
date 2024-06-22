@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingOuterStorageBase
+  parent: [ClothingOuterStorageBase, ClothingOuterArmorBasic, AllowSuitStorageClothing]
   id: ClothingOuterVestJacketArcticMilitary
   name: Arctic vested jacket
   description: Warm and armored! only now for 3.99$

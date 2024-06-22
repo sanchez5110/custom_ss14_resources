@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingOuterStorageBase
+  parent: [ClothingOuterArmorBasic, AllowSuitStorageClothing]
   id: ClothingOuterVestArcticMilitary
   name: Arctic vest
   description: ballistic plates. Love ballistic plates

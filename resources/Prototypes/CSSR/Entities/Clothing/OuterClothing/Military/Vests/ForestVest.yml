@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingOuterStorageBase
+  parent: [ClothingOuterArmorBasic, AllowSuitStorageClothing]
   id: ClothingOuterVestForestMilitary
   name: Forest vest
   description: ballistic plates. Love ballistic plates

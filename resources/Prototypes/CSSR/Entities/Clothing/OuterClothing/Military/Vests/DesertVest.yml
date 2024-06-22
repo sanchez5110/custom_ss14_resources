@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingOuterStorageBase
+  parent: [ClothingOuterArmorBasic, AllowSuitStorageClothing]
   id: ClothingOuterVestDesertMilitary
   name: Desert vest
   description: ballistic plates. Love ballistic plates

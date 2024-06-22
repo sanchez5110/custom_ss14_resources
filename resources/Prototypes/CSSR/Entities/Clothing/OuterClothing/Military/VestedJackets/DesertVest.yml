@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingOuterStorageBase
+  parent: [ClothingOuterStorageBase, ClothingOuterArmorBasic, AllowSuitStorageClothing]
   id: ClothingOuterVestJacketDesertMilitary
   name: Desert vested jacket
   description: very warm for desert.

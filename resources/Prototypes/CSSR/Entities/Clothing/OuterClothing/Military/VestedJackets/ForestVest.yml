@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingOuterStorageBase
+  parent: [ClothingOuterStorageBase, ClothingOuterArmorBasic, AllowSuitStorageClothing]
   id: ClothingOuterVestJacketForestMilitary
   name: Forest vested jacket
   description: What do you think about it?
