@@ -1,0 +1,17 @@
+- type: startingGear
+  id: SoliderArcticGear3
+  equipment:
+    jumpsuit: ClothingUniformMilitaryCamoArctic
+    back: ClothingBackpackArmyArctic
+    head: ClothingHeadHatArtcticBeret
+    mask: ClothingMaskGhillieArcticGaiter
+    shoes: ClothingShoesBootsTacticoolWhite
+    gloves: ClothingHandsCombatArcticGloves
+    outerClothing: ClothingOuterCamoArcticJacket
+    eyes: ClothingEyesGlassesBallisticSunglasses
+    ears: ClothingHeadsetActiveHeadphonesArctic
+    belt: ClothingBeltMilitaryWebbing
+    pocket1: MagazineRifle
+    pocket2: MagazineRifle
+    suitstorage: WeaponRifleLecter
+  satchel: ClothingBackpackSatchelArmyArctic

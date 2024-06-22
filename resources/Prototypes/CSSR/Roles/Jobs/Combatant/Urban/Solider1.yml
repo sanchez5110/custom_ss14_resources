@@ -1,0 +1,16 @@
+- type: startingGear
+  id: SoliderUrbanGear1
+  equipment:
+    jumpsuit: ClothingUniformMilitaryCamoUrban
+    back: ClothingBackpack
+    head: ClothingHeadHatUrbanBeret
+    mask: ClothingMaskGhillieUrbanGaiter
+    shoes: ClothingShoesBootsCombat
+    gloves: ClothingHandsGlovesCombat
+    outerClothing: ClothingOuterArmorBasic
+    eyes: ClothingEyesGlassesBallisticSunglasses
+    ears: ClothingHeadsetActiveHeadphonesUrban
+    belt: ClothingBeltMilitaryWebbing
+    pocket1: MagazineRifle
+    pocket2: MagazineRifle
+    suitstorage: WeaponRifleLecter

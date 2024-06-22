@@ -1,0 +1,15 @@
+- type: startingGear
+  id: SoliderArcticGearGhillie
+  equipment:
+    jumpsuit: ClothingUniformMilitaryCamoArctic
+    back: WeaponSniperHristov
+    head: ClothingHeadGhillieArcticHelmet
+    mask: ClothingMaskGhillieArcticGaiter
+    shoes: ClothingShoesBootsTacticoolWhite
+    gloves: ClothingHandsGhillieArcticGloves
+    outerClothing: ClothingOuterGhillieArcticSuit
+    eyes: ClothingEyesGlassesBallisticSunglasses
+    ears: ClothingHeadsetActiveHeadphonesArctic
+    pocket1: CartridgeAntiMateriel
+    pocket2: CartridgeAntiMateriel
+  satchel: ClothingBackpackSatchelArmyArctic

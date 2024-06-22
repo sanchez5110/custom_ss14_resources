@@ -1,0 +1,17 @@
+- type: startingGear
+  id: SoliderDesertGear2
+  equipment:
+    jumpsuit: ClothingUniformMilitaryCamoDesert
+    back: ClothingBackpackArmyDesert
+    head: ClothingHeadDesertHelmet
+    mask: ClothingMaskGhillieDesertGaiter
+    shoes: ClothingShoesBootsTacticoolTan
+    gloves: ClothingHandsCombatTanGlovesFingerless
+    outerClothing: ClothingOuterVestDesertMilitary
+    eyes: ClothingEyesGlassesBallisticSunglasses
+    ears: ClothingHeadsetActiveHeadphonesTan
+    belt: ClothingBeltMilitaryWebbing
+    pocket1: MagazineRifle
+    pocket2: MagazineRifle
+    suitstorage: WeaponRifleLecter
+  satchel: ClothingBackpackSatchelArmyDesert

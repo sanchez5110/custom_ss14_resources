@@ -1,0 +1,17 @@
+- type: startingGear
+  id: SoliderForestGear3
+  equipment:
+    jumpsuit: ClothingUniformMilitaryCamoForest
+    back: ClothingBackpackArmyForest
+    head: ClothingHeadHatForestBeret
+    mask: ClothingMaskGhillieForestGaiter
+    shoes: ClothingShoesBootsTacticoolOlive
+    gloves: ClothingHandsCombatOliveGloves
+    outerClothing: ClothingOuterCamoForestJacket
+    eyes: ClothingEyesGlassesBallisticSunglasses
+    ears: ClothingHeadsetActiveHeadphonesOlive
+    belt: ClothingBeltMilitaryWebbing
+    pocket1: MagazineRifle
+    pocket2: MagazineRifle
+    suitstorage: WeaponRifleLecter
+  satchel: ClothingBackpackSatchelArmyForest

@@ -1,0 +1,15 @@
+- type: startingGear
+  id: SoliderForestGhillieGear
+  equipment:
+    jumpsuit: ClothingUniformMilitaryCamoForest
+    back: WeaponSniperHristov
+    head: ClothingHeadGhillieForestHelmet
+    mask: ClothingMaskGhillieForestGaiter
+    shoes: ClothingShoesBootsTacticoolOlive
+    gloves: ClothingHandsGhillieForestGloves
+    outerClothing: ClothingOuterGhillieForestSuit
+    eyes: ClothingEyesGlassesBallisticSunglasses
+    ears: ClothingHeadsetActiveHeadphonesOlive
+    pocket1: CartridgeAntiMateriel
+    pocket2: CartridgeAntiMateriel
+  satchel: ClothingBackpackSatchelArmyForest

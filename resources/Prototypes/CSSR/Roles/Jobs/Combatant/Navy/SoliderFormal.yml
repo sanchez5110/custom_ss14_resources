@@ -1,0 +1,9 @@
+- type: startingGear
+  id: SoliderNavyGearFormal
+  equipment:
+    jumpsuit: ClothingUniformMilitaryFormalNavy
+    back: ClothingBackpackSatchelLeather
+    head: ClothingHeadHatFormalNavyCap
+    shoes: ClothingShoesBootsJack
+    outerClothing: ClothingOuterFormalNavyJacket
+    ears: ClothingHeadsetActiveHeadphonesUrban
