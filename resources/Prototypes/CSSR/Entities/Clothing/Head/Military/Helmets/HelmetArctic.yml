@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingHeadBase
+  parent: ClothingHeadNohair
   id: ClothingHeadArcticHelmet
   name: Arctic helmet
   description: Protects the head from impacts.

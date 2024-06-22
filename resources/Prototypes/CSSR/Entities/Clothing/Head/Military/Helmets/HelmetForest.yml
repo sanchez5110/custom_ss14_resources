@@ -1,5 +1,5 @@
 - type: entity
-  parent: ClothingHeadBase
+  parent: ClothingHeadNohair
   id: ClothingHeadForestHelmet
   name: Forest helmet
   description: Protects the head from impacts.

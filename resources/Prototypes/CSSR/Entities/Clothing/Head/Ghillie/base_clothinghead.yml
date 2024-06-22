@@ -7,11 +7,14 @@
     size: Normal
   - type: TemperatureProtection
     coefficient: 0.2
-  - type: IngestionBlocker
   - type: Clothing
+  - type: GroupExamine
+  - type: IngestionBlocker
   - type: Tag
     tags:
-    - HidesHair
     - WhitelistChameleon
-    - HidesNose
   - type: IdentityBlocker
+  - type: HideLayerClothing
+    slots:
+    - Hair
+    - Snout
