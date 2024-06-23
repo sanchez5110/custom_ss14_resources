@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckChevronMedic
+  name: Medic chevron
+  description: Medic chevron. You can use it to mark yourself as a medic. Geneva Convention still indeed!
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Neck/Military/Chevrons/Medic.rsi 
+  - type: Clothing
+    sprite: CSSR/Clothing/Neck/Military/Chevrons/Medic.rsi

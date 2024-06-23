@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckBandageWhite
+  name: White bandage
+  description: White bandage. You can use it to mark yourself
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Neck/Military/Bandages/WhiteBandage.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Neck/Military/Bandages/WhiteBandage.rsi

@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingNeckBandageYellow
+  name: Yellow bandage
+  description: Yellow bandage. You can use it to mark yourself
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Neck/Military/Bandages/YellowBandage.rsi 
+  - type: Clothing
+    sprite: CSSR/Clothing/Neck/Military/Bandages/YellowBandage.rsi
