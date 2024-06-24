@@ -9,6 +9,7 @@
     gloves: ClothingHandsCombatArcticGlovesFingerless
     outerClothing: ClothingOuterVestArcticMilitary
     eyes: ClothingEyesGlassesBallisticSunglasses
+    id: IDDOgTagCSSR
     ears: ClothingHeadsetActiveHeadphonesArctic
     belt: ClothingBeltMilitaryWebbing
     pocket1: MagazineRifle

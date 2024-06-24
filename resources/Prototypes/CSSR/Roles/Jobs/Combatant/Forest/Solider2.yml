@@ -9,6 +9,7 @@
     gloves: ClothingHandsCombatOliveGlovesFingerless
     outerClothing: ClothingOuterVestForestMilitary
     eyes: ClothingEyesGlassesBallisticSunglasses
+    id: IDDOgTagCSSR
     ears: ClothingHeadsetActiveHeadphonesOlive
     belt: ClothingBeltMilitaryWebbing
     pocket1: MagazineRifle
