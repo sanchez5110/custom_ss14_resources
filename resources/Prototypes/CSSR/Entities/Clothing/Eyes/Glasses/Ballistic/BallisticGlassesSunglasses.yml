@@ -5,9 +5,9 @@
   description: A ballistic glasses that protect your eyes.
   components:
   - type: Sprite
-    sprite: CSSR/Clothing/Eyes/Glasses/ballistic/BallisticSunglasses.rsi
+    sprite: CSSR/Clothing/Eyes/Glasses/Ballistic/BallisticSunglasses.rsi
   - type: Clothing
-    sprite: CSSR/Clothing/Eyes/Glasses/ballistic/BallisticSunglasses.rsi
+    sprite: CSSR/Clothing/Eyes/Glasses/Ballistic/BallisticSunglasses.rsi
   - type: FlashImmunity
   - type: EyeProtection
     protectionTime: 5

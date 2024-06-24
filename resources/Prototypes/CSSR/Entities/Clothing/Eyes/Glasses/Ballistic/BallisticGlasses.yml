@@ -5,9 +5,9 @@
   description: A ballistic glasses that protect your eyes.
   components:
   - type: Sprite
-    sprite: CSSR/Clothing/Eyes/Glasses/ballistic/BallisticGlasses.rsi
+    sprite: CSSR/Clothing/Eyes/Glasses/Ballistic/BallisticGlasses.rsi
   - type: Clothing
-    sprite: CSSR/Clothing/Eyes/Glasses/ballistic/BallisticGlasses.rsi
+    sprite: CSSR/Clothing/Eyes/Glasses/Ballistic/BallisticGlasses.rsi
   - type: Armor
     modifiers:
       coefficients:
