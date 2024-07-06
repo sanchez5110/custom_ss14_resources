@@ -1,8 +1,0 @@
-- type: entity
-  parent: ClothingBackpack
-  id: ClothingBackpackArmyArctic
-  name: Army arctic backpack
-  description: A backpack, it is contains all you need
-  components:
-    - type: Sprite
-      sprite: CSSR/Clothing/Back/Army/Backpacks/Arctic.rsi

@@ -1,9 +1,0 @@
-- type: startingGear
-  id: SoliderForestGearFormal
-  equipment:
-    jumpsuit: ClothingUniformMilitaryFormalForest
-    back: ClothingBackpackSatchelLeather
-    head: ClothingHeadHatFormalForestCap
-    shoes: ClothingShoesBootsJack
-    outerClothing: ClothingOuterFormalForestJacket
-    ears: ClothingHeadsetActiveHeadphonesUrban
