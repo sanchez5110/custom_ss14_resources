@@ -17482,13 +17482,6 @@ entities:
       rot: -1.5707963267948966 rad
       pos: 2.6951885,2.913632
       parent: 2278
-- proto: OrganGoblinEyes
-  entities:
-  - uid: 841
-    components:
-    - type: Transform
-      pos: 2.8149655,10.105363
-      parent: 673
 - proto: OrganHumanBrain
   entities:
   - uid: 2377

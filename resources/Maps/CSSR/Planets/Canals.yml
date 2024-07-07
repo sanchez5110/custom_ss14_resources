@@ -13415,13 +13415,6 @@ entities:
         - 0
         - 0
         - 0
-- proto: HeadTerminator
-  entities:
-  - uid: 608
-    components:
-    - type: Transform
-      pos: 16.572147,6.8826666
-      parent: 1
 - proto: InflatableDoor
   entities:
   - uid: 609

@@ -5591,13 +5591,6 @@ entities:
       rot: 3.141592653589793 rad
       pos: 41.4732,23.245485
       parent: 1
-- proto: PlushieShadowkin
-  entities:
-  - uid: 135
-    components:
-    - type: Transform
-      pos: 40.4732,25.464235
-      parent: 1
 - proto: PlushieSharkBlue
   entities:
   - uid: 494

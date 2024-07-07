@@ -7387,13 +7387,6 @@ entities:
       rot: 3.141592653589793 rad
       pos: 24.5,58.5
       parent: 1
-- proto: ChairCarp
-  entities:
-  - uid: 1355
-    components:
-    - type: Transform
-      pos: 0.5,8.5
-      parent: 1
 - proto: ChairWood
   entities:
   - uid: 1356
@@ -8930,13 +8923,6 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 7.5,43.5
       parent: 1
-- proto: HeadTerminator
-  entities:
-  - uid: 1616
-    components:
-    - type: Transform
-      pos: 10.492654,26.616667
-      parent: 1
 - proto: HighSecArmoryLocked
   entities:
   - uid: 1617
@@ -9397,13 +9383,6 @@ entities:
     - type: Transform
       pos: -16.5,8.5
       parent: 1
-- proto: PlushieShadowkin
-  entities:
-  - uid: 2720
-    components:
-    - type: Transform
-      pos: 18.5,61.5
-      parent: 1
 - proto: PortableGeneratorPacman
   entities:
   - uid: 1687
@@ -9500,41 +9479,6 @@ entities:
     components:
     - type: Transform
       pos: -9.5,7.5
-      parent: 1
-- proto: PottedPlantAlt0
-  entities:
-  - uid: 2679
-    components:
-    - type: Transform
-      pos: 11.5,-5.5
-      parent: 1
-- proto: PottedPlantAlt2
-  entities:
-  - uid: 1689
-    components:
-    - type: Transform
-      pos: -14.5,-4.5
-      parent: 1
-- proto: PottedPlantAlt4
-  entities:
-  - uid: 2652
-    components:
-    - type: Transform
-      pos: 10.5,30.5
-      parent: 1
-- proto: PottedPlantAlt6
-  entities:
-  - uid: 2680
-    components:
-    - type: Transform
-      pos: -8.5,-6.5
-      parent: 1
-- proto: PottedPlantAlt8
-  entities:
-  - uid: 2682
-    components:
-    - type: Transform
-      pos: -14.5,5.5
       parent: 1
 - proto: PowerCageRecharger
   entities:
@@ -11093,13 +11037,6 @@ entities:
     - type: Transform
       pos: 29.5,26.5
       parent: 1
-- proto: SignDepartmentParkResearch
-  entities:
-  - uid: 1920
-    components:
-    - type: Transform
-      pos: -15.5,-0.5
-      parent: 1
 - proto: SignDirectionalDorms
   entities:
   - uid: 1921
@@ -11127,38 +11064,6 @@ entities:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 24.5,30.5
-      parent: 1
-- proto: SignDormRoom1
-  entities:
-  - uid: 1925
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 4.5,33.5
-      parent: 1
-- proto: SignDormRoom2
-  entities:
-  - uid: 1926
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 7.5,33.5
-      parent: 1
-- proto: SignDormRoom3
-  entities:
-  - uid: 1927
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 7.5,29.5
-      parent: 1
-- proto: SignDormRoom4
-  entities:
-  - uid: 1928
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 4.5,29.5
       parent: 1
 - proto: SignSecureSmallRed
   entities:

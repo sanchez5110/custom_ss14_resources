@@ -9628,31 +9628,6 @@ entities:
       rot: 3.141592653589793 rad
       pos: 110.5,4.5
       parent: 1
-- proto: ChairCarp
-  entities:
-  - uid: 148
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 117.5,25.5
-      parent: 1
-  - uid: 149
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 117.5,21.5
-      parent: 1
-  - uid: 150
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 119.5,25.5
-      parent: 1
-  - uid: 151
-    components:
-    - type: Transform
-      pos: 116.5,22.5
-      parent: 1
 - proto: ChairWood
   entities:
   - uid: 152

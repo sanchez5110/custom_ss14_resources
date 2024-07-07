@@ -2412,19 +2412,6 @@ entities:
     - type: Transform
       pos: 64.5,31.5
       parent: 1
-- proto: ClothingUnderSocksStripedSecurityJackboots
-  entities:
-  - uid: 318
-    components:
-    - type: Transform
-      pos: 52.433846,20.241642
-      parent: 1
-  - uid: 590
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 52.808846,20.168724
-      parent: 1
 - proto: ComfyChair
   entities:
   - uid: 493
