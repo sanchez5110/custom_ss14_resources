@@ -1,6 +1,7 @@
 - type: entity
   name: Grey mattress
   id: MattressGreyAlt
+  suffix: Legs to right
   parent: BaseStructure
   description: I wanna lay on it on the beach at night, and watch some stars...
   components:
