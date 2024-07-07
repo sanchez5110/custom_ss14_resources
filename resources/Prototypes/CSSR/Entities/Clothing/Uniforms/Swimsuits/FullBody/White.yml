@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformSwimsuitFullbodyWhite
+  name: White fullbody swimsuit
+  description: White, like my soul
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/FullBody/White.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/FullBody/White.rsi

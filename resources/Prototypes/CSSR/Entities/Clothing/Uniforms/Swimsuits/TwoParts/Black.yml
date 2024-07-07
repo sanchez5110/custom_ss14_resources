@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformSwimsuitTwoPartsBlack
+  name: Black two-parts swimsuit
+  description: Black, like a night sky
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/TwoParts/Black.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/TwoParts/Black.rsi

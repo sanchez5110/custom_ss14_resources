@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformSwimsuitTwoPartsGrey
+  name: Grey two-parts swimsuit
+  description: Grey, like i dont know
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/TwoParts/Grey.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/TwoParts/Grey.rsi
