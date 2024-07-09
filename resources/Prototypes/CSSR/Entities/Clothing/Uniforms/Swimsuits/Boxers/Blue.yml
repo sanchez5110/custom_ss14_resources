@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformSwimsuitBoxerBlue
+  name: Blue boxers
+  description: Blue, like the sea
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/Boxers/Blue.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/Boxers/Blue.rsi

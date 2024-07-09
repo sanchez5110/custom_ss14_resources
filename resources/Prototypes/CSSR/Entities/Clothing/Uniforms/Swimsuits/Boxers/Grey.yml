@@ -1,0 +1,10 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformSwimsuitBoxerGrey
+  name: Grey boxers
+  description: Grey, like concrete
+  components:
+  - type: Sprite
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/Boxers/Grey.rsi
+  - type: Clothing
+    sprite: CSSR/Clothing/Uniforms/Swimsuits/Boxers/Grey.rsi
