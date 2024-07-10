@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "license": "CC0",
+    "copyright": "sanchez, discord: sanchez5110",
+    "size": {
+      "x": 48,
+      "y": 64
+    },
+    "states": [
+    {
+      "name": "Lamp",
+      "delays": [
+        [
+      0.3,
+      0.3,
+      0.3
+    ]
+      ]
+     }
+    ]
+  }

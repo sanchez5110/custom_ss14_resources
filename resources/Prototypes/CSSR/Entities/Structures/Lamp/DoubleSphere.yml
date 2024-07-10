@@ -1,0 +1,27 @@
+- type: entity
+  id: LampDoubleSphere
+  parent: BaseStructureNoPull
+  name: Sphere lamp
+  description: A lamp, look like moon
+  components:
+  - type: Sprite
+    sprite: CSSR/Structures/Lamp/DoubleSphere.rsi
+    layers:
+      - state: Lamp
+        shader: unshaded
+  - type: Appearance
+  - type: PointLight
+    radius: 5
+    energy: 5
+    color: "#DDDDDD"
+  - type: Damageable
+    damageContainer: Inorganic
+    damageModifierSet: Metallic
+  - type: Destructible
+    thresholds:
+      - trigger:
+          !type:DamageTrigger
+          damage: 200
+        behaviors:
+          - !type:DoActsBehavior
+            acts: [ "Destruction" ]
