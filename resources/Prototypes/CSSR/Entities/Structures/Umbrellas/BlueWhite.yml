@@ -1,0 +1,12 @@
+- type: entity
+  id: UmbrellaBlueWhite
+  parent: BaseUmbrella
+  name: Sky-blue umbrella
+  description: A bit blue
+  components:
+  - type: Sprite
+#    snapCardinals: true
+    sprite: CSSR/Structures/Umbrellas/BlueWhite.rsi
+    layers:
+    - state: Umbrella
+    drawdepth: Overdoors
