@@ -1,0 +1,12 @@
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatOversizeHoodiePink
+  name: Pink oversize hoodie
+  description: Pinnnnnnnkkkkkkkk
+  components:
+    - type: Sprite
+      sprite: CSSR/Clothing/OuterClothing/Oversizes/oversizeHoodiePink.rsi
+    - type: Clothing
+      sprite: CSSR/Clothing/OuterClothing/Oversizes/oversizeHoodiePink.rsi
+    - type: TemperatureProtection
+      coefficient: 0.1
