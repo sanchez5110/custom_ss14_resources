@@ -21,6 +21,7 @@ JustAHouse.yml - Sanchez5110 | building coordinates = 37, 21
 SOSPlanet.yml - Kazak77707, Sanchez5110 | building coordinates = 0, 62; 16, 100  
 SyndicateOutpost.yml - Sanchez5110 | building coordinates = 13, -10  
 Village.yml - Sanchez5110 | buidling coordinates 82, 19  
+Camp - Sanchez5110 | building coordinates 29, -23
 
 ## Shuttles
 
