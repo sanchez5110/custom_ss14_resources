@@ -1,5 +1,9 @@
 # Credits
 
+## Stations
+
+LimaStation.yml - winnergames, Sanchez5110, Kazak77707
+
 ## Asteroids
 
 asteroid1.yml - Sanchez5110  
@@ -25,7 +29,8 @@ Camp - Sanchez5110 | building coordinates 29, -23
 
 ## Shuttles
 
-Infilatourist.yml - Sanchez5110  
+Infilatourist.yml - Sanchez5110 
+Shuttle.yml - winnergames(discord(yup, another my friend))
 
 ## Space-sectors
 
