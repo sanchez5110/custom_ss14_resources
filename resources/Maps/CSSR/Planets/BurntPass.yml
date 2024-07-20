@@ -31518,7 +31518,7 @@ entities:
       rot: 3.141592653589793 rad
       pos: 68.5,-13.5
       parent: 1
-- proto: FloorAzureWaterEntity
+- proto: FloorWaterEntity
   entities:
   - uid: 2241
     components:
@@ -34294,13 +34294,6 @@ entities:
     - type: Transform
       pos: -21.5,0.5
       parent: 1
-- proto: PottedPlantAlt3
-  entities:
-  - uid: 2617
-    components:
-    - type: Transform
-      pos: -24.5,7.5
-      parent: 1
 - proto: PottedPlantRandom
   entities:
   - uid: 2618
@@ -35265,128 +35258,6 @@ entities:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 108.53863,2.9343197
-      parent: 1
-- proto: ShippingContainerCybersun
-  entities:
-  - uid: 2741
-    components:
-    - type: Transform
-      pos: 67.5,-41.5
-      parent: 1
-- proto: ShippingContainerDeforest
-  entities:
-  - uid: 2742
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -20.5,28.5
-      parent: 1
-- proto: ShippingContainerDonkCo
-  entities:
-  - uid: 2743
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -24.5,26.5
-      parent: 1
-  - uid: 2744
-    components:
-    - type: Transform
-      pos: 67.5,-43.5
-      parent: 1
-- proto: ShippingContainerInterdyne
-  entities:
-  - uid: 2745
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -22.5,23.5
-      parent: 1
-- proto: ShippingContainerKahraman
-  entities:
-  - uid: 2746
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -27.5,23.5
-      parent: 1
-- proto: ShippingContainerNakamura
-  entities:
-  - uid: 2747
-    components:
-    - type: Transform
-      pos: 44.5,69.5
-      parent: 1
-  - uid: 2748
-    components:
-    - type: Transform
-      pos: 42.5,71.5
-      parent: 1
-  - uid: 2749
-    components:
-    - type: Transform
-      pos: 38.5,71.5
-      parent: 1
-  - uid: 2750
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -29.5,28.5
-      parent: 1
-  - uid: 2751
-    components:
-    - type: Transform
-      pos: 47.5,69.5
-      parent: 1
-  - uid: 2752
-    components:
-    - type: Transform
-      pos: 46.5,70.5
-      parent: 1
-  - uid: 2753
-    components:
-    - type: Transform
-      pos: 49.5,70.5
-      parent: 1
-  - uid: 2754
-    components:
-    - type: Transform
-      pos: 51.5,71.5
-      parent: 1
-  - uid: 2755
-    components:
-    - type: Transform
-      pos: 52.5,70.5
-      parent: 1
-  - uid: 2756
-    components:
-    - type: Transform
-      pos: 38.5,69.5
-      parent: 1
-  - uid: 2757
-    components:
-    - type: Transform
-      pos: 48.5,71.5
-      parent: 1
-  - uid: 2758
-    components:
-    - type: Transform
-      pos: 38.5,70.5
-      parent: 1
-  - uid: 2759
-    components:
-    - type: Transform
-      pos: 45.5,71.5
-      parent: 1
-  - uid: 2760
-    components:
-    - type: Transform
-      pos: 51.5,69.5
-      parent: 1
-  - uid: 2761
-    components:
-    - type: Transform
-      pos: 43.5,70.5
       parent: 1
 - proto: ShuttersNormal
   entities:
