@@ -31,6 +31,8 @@ Village.yml - Sanchez5110 | buidling coordinates 82, 19
 
 ## Shuttles
 
+AttackerNT.yml - Sanchez5110
+AttackerSyndie.yml - Sanchez5110
 Infilatourist.yml - Sanchez5110
 Shuttle.yml - winnergames(discord(yup, another my friend))
 
